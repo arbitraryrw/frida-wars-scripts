@@ -1,7 +1,7 @@
 # frida-wars
-27th - 29th June
-[FRIDA wars website](https://fridawars.sec-r.et/)
-[Rules](https://fridawars.sec-r.et/rules)
++ 27th - 29th June
++ [FRIDA wars website](https://fridawars.sec-r.et/)
++ [Rules](https://fridawars.sec-r.et/rules)
 
 ## Usage
 
