@@ -4,9 +4,8 @@
 + [Rules](https://fridawars.sec-r.et/rules)
 
 ## Usage
-
 ```
-frida -U -l t.js -f <apk> --runtime=v8
+frida -U -l ./beansOnToast.js -f com.secret.fridawars --runtime=v8 --no-pause
 ```
 
 Result:
